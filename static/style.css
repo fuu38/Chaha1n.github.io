@@ -1,0 +1,14 @@
+#Profile {
+    display: block;
+    text-align: center;
+}
+
+#icon {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 30vw;
+}
+
+#name {
+    font-size: 250%;
+}
