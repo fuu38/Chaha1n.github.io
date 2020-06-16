@@ -19,10 +19,19 @@
     font-size: 6vw;
 }
 
-#detail {}
+.detail {
+    text-align: center;
+}
 
 #detail_title {
-    text-align: center;
     font-size: 5vw;
     margin-top: 2vh;
+}
+
+#born {
+    padding-top: 2vh;
+}
+
+.aboutme_second {
+    padding-top: 3vh;
 }
