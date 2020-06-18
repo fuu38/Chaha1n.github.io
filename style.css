@@ -18,8 +18,9 @@
     font-size: 6vw;
 }
 
-.detail {
+.container-fluid {
     text-align: center;
+    font-family: JetBrainsMono;
 }
 
 .topics {
@@ -27,11 +28,13 @@
     padding-top: 2vh;
     font-size: 5vw;
     padding-bottom: 1vh;
+    font-family: arial black;
 }
 
 .detail_title {
     font-size: 3.5vw;
     padding-bottom: 1vh;
+    text-decoration: underline;
 }
 
 .detail_content {
@@ -49,4 +52,9 @@
 
 #Comp-Prog {
     margin-top: 5vh;
+}
+
+@font-face {
+    font-family: 'JetBrainsMono';
+    src: url(JetBrainsMono-1.0.3/ttf);
 }
